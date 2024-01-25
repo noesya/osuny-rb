@@ -1,5 +1,3 @@
-## [Unreleased]
+## [0.0.0] - 2024-01-25
 
-## [0.1.0] - 2024-01-25
-
-- Initial release
+- Placeholder gem to reserve "osuny" name.
